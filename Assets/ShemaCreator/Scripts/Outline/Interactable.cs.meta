@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b1223cc23f58014480fb1879c0e29ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - outlineTo: {instanceID: 0}
+  - sliderPref: {fileID: 4519635864567180116, guid: 63ef69be46a50c74ea5ce2169e32447b, type: 3}
+  - menuParent: {fileID: 3075881659977296614, guid: 53d9089059b63664fa99cacff9613dfa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
